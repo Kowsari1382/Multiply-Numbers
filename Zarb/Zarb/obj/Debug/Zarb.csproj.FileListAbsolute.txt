@@ -1,0 +1,8 @@
+C:\Users\Kowsari\source\repos\Zarb\Zarb\obj\Debug\Zarb.csproj.AssemblyReference.cache
+C:\Users\Kowsari\source\repos\Zarb\Zarb\obj\Debug\Zarb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kowsari\source\repos\Zarb\Zarb\obj\Debug\Zarb.csproj.CoreCompileInputs.cache
+C:\Users\Kowsari\source\repos\Zarb\Zarb\bin\Debug\Zarb.exe.config
+C:\Users\Kowsari\source\repos\Zarb\Zarb\bin\Debug\Zarb.exe
+C:\Users\Kowsari\source\repos\Zarb\Zarb\bin\Debug\Zarb.pdb
+C:\Users\Kowsari\source\repos\Zarb\Zarb\obj\Debug\Zarb.exe
+C:\Users\Kowsari\source\repos\Zarb\Zarb\obj\Debug\Zarb.pdb
